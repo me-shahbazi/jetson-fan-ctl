@@ -5,7 +5,7 @@ Automagic fan control for the Nvidia Jetson Nano
 
 ### Hardware
 You will need a 5V PWM fan for this to make any sense.  
-I used the **Noctua nf-a4x20 5V PWM** fan.
+I used the **WaveShare Fan-4020-PWM-5V** fan.
 
 Additionally, I recommend you use the barrel jack with a 4A power supply.  
 
