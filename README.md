@@ -21,8 +21,8 @@ otherwise, you can install it with
 
 
 ## How to install:
-first of all click on code (GreenBox up here) and then Download ZIP.
-after Extracting zip file open Terminal and change directory to the Extracted folder:
+First of all click on code (GreenBox up here) and then Download ZIP.
+After Extracting zip file open Terminal and change directory to the Extracted folder:
 
     cd ~/Downloads/jetson-fan-ctl-master
 
